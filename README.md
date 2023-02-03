@@ -6,3 +6,5 @@ From 9th-12th grade, I learned how to code in Python and Java mainly through kid
 [http://mentoremma.oyosite.com/](http://mentoremma.oyosite.com/)
 
 While these projects aren't too impressive, it is nice to see how far I've come since I began coding!
+
+Unfortunately, I cannot put the source code on a public repo as I do not want to give out complete solutions to OYOclass challenges.
